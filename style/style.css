@@ -1,7 +1,7 @@
 body{
     font-family:'Lato', sans-serif;
     margin: 0;
-    background-color: #d6e4f2;
+    background-color: oldlace;
 }
 .banner{
     background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.00) 100%),url('../images/Banner\ Image.png');
@@ -319,8 +319,7 @@ body{
     transition: transform 0.3s ease-in-out;
 }
 .pic1:hover{
-    background-color: yellow;
-    transform: scale(1.1);
+   transform: scale(1.1);
 }
 .pic2{
     margin: 12px 12px 10px 0;
@@ -328,7 +327,6 @@ body{
     transition: transform 0.3s ease-in-out;
 }
 .pic2:hover{
-    background-color: yellow;
     transform: scale(1.1);
 }
 .pic3{
@@ -337,8 +335,7 @@ body{
     transition: transform 0.3s ease-in-out;
 }
 .pic3:hover{
-    background-color: yellow;
-    transform: scale(1.1);
+  transform: scale(1.1);
 }
 .pic4{
     margin: 0 12px 0 0;
@@ -346,8 +343,7 @@ body{
     transition: transform 0.3s ease-in-out;
 }
 .pic4:hover{
-    background-color: yellow;
-    transform: scale(1.1);
+ transform: scale(1.1);
 }
 .pic5{
     margin-right: 12px;
@@ -355,8 +351,7 @@ body{
     transition: transform 0.3s ease-in-out;
 }
 .pic5:hover{
-    background-color: yellow;
-    transform: scale(1.1);
+   transform: scale(1.1);
 }
 .pic6{
     margin: 0;
@@ -364,7 +359,6 @@ body{
     transition: transform 0.3s ease-in-out;
 }
 .pic6:hover{
-    background-color: yellow;
     transform: scale(1.1);
 }
 .portfolio .pic1 .pic2 .pic3 .pic4 .pic5 .pic6{
@@ -433,7 +427,7 @@ footer{
     height: 470px;
     font-size: 18px;
     color: #FFF;
-}
+} 
 .Footer{
     border: 5px solid;
     border-style: none;
